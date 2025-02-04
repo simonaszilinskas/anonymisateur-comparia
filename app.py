@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import json
 import requests
 from datasets import load_dataset
